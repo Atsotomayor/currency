@@ -1,7 +1,5 @@
 # CurrencyConverterChallenge
 Proyecto para construir un conversor de monedas utilizando Java y Gson.
-# Currency Converter Challenge
-
 ## Descripción
 Este es un proyecto de back-end en Java para construir un conversor de monedas. Utiliza la biblioteca Gson para manejar JSON y sigue principios básicos de desarrollo de software.
 
